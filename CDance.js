@@ -24,7 +24,7 @@
 }());
 (function() {
 	var player;
-	var turndownAt = 14
+	var turndownAt = 13
 	var numTurntAnimations = 10
 	var turntDown = false;
 	var maxNodes = 1000;
